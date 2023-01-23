@@ -1,0 +1,13 @@
+#entrer{
+        background-color: rgb(81, 255, 0);
+}
+#attendre{
+    background: rgb(0, 229, 255);
+}
+/* #recu{
+    background-color: white;
+    color: white;
+} */
+tr{
+    background: blue important;
+}

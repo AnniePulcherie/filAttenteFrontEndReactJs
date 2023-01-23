@@ -1,0 +1,31 @@
+.Control-Buttons {
+    margin: 3rem 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    
+  .btn-grp {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+    
+  .btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 5vw;
+    height: 4vh;
+    border-radius: 7px;
+    margin: 0px 6px;
+    display: flex;
+    border: 2px solid #1de26f;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: rgb(9, 0, 0);
+  }
+    
+  .btn-one{
+      background-color: #0dc75e;
+  }
